@@ -1,0 +1,17 @@
+body{
+    background-image: url(background.jpeg);
+    font-family: 'Consolas', monospace;
+    color: white;
+    text-align: center;
+    text-shadow: 3px 1px 0 rgb(3, 3, 3), -5px -5px 3px rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    text-shadow: 5px 1px 0 rgb(3, 3, 3), -5px -5px 3px rgb(0, 0, 0);
+    font-size: 40px;
+}
